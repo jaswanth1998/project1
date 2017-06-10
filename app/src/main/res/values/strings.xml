@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">project1</string>
+    <string name="button">Button</string>
+    <string name="count">count</string>
+    <string name="article_title">Article Title</string>
+    <string name="article_subheading">Article subheading</string>
+    <string name="article_text">Article text
+    \n\n
+    Article text "www.google.com"
+    \n\n
+    Article text
+    \n\n
+    Article text
+    \n\n
+    Article text
+    \n\n
+    Article text
+    \n\n
+    Article text
+    \n\n
+    Article text
+    \n\n
+    Article text
+    \n\n
+    Article text
+    \n\n
+    Article text
+    \n\n
+    Article text
+    \n\n
+    Article text
+    \n\n
+    Article text
+    \n\n
+    Article text
+    \n\n
+    Article text
+    \n\n
+    Article text
+    \n\n
+    Article text
+    \n\n
+    Article text
+    \n\n
+    Article text
+    \n\n
+    Article text
+    \n\n
+    Article text
+    \n\n
+    Article text
+    \n\n
+    Article text
+    \n\n
+    Article text
+    \n\n
+    Article text
+    \n\n
+    Article text
+    \n\n
+    Article text
+    \n\n
+    Article text
+    \n\n
+    Article text
+    \n\n
+    Article text
+    </string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
